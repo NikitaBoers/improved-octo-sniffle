@@ -1,0 +1,82 @@
+{
+    "Nikita": {
+        "LastName": "Boers",
+        "Adjective": "Notorious",
+        "Email": "n.m.boers@students.uu.nl"
+    },
+    "Reina": {
+        "LastName": "Borst",
+        "Adjective": "Raging",
+        "Email": "r.j.borst@students.uu.nl"
+    },
+    "Isabela": {
+        "LastName": "Cassola Berger",
+        "Adjective": "Illegal",
+        "Email": "i.l.cassolaberger@students.uu.nl"
+    },
+    "Vivian": {
+        "LastName": "Claes",
+        "Adjective": "Vivacious",
+        "Email": "v.i.claes@students.uu.nl"
+    },
+    "Jana": {
+        "LastName": "Elbrecht",
+        "Adjective": "Jolly",
+        "Email": "j.s.elbrecht@students.uu.nl"
+    },
+    "Joel": {
+        "LastName": "Ghahremani",
+        "Adjective": "Just",
+        "Email": "j.ghahremani@students.uu.nl"
+    },
+    "Madeline": {
+        "LastName": "Jones",
+        "Adjective": "Mighty",
+        "Email": "m.e.h.jones@students.uu.nl"
+    },
+    "Haram": {
+        "LastName": "Kang",
+        "Adjective": "Homocidal",
+        "Email": "h.kang@students.uu.nl"
+    },
+    "Sophie": {
+        "LastName": "Martens",
+        "Adjective": "Superstitious",
+        "Email": "s.g.m.m.martens@students.uu.nl"
+    },
+    "Geofrey": {
+        "LastName": "Mushibi",
+        "Adjective": "Gorgeous",
+        "Email": "g.s.mushibi@students.uu.nl"
+    },
+    "Anastasia": {
+        "LastName": "Nosanova",
+        "Adjective": "Annoying",
+        "Email": "a.nosanova@students.uu.nl"
+    },
+    "Damjan": {
+        "LastName": "Pop-Arsov",
+        "Adjective": "Destructive",
+        "Email": "d.poparsov@students.uu.nl"
+    },
+    "Vittoria": {
+        "LastName": "Ricci",
+        "Adjective": "Voluptious",
+        "Email": "v.ricci@students.uu.nl"
+    },
+    "Thomas": {
+        "LastName": "Scassellati Sforzolini",
+        "Adjective": "Terrific",
+        "Email": "t.scassellatisforzolini@students.uu.nl"
+    },
+    "Cassius": {
+        "LastName": "Smith-Frazer",
+        "Adjective": "Chaotic",
+        "Email": "c.r.j.smithfrazer@students.uu.nl"
+    },
+    "Iva": {
+        "LastName": "Totomanova",
+        "Adjective": "Inquisitive",
+        "Email": "i.g.totomanova@students.uu.nl"
+    }
+}
